@@ -23,6 +23,6 @@ figcaption {
   font-family: Georgia, "New Times Roman", serif;
   */
   font: normal 0.75m/1.5em Georgia, "New Times Roman", serif"
-  color: rbas(127, 21, 25, 1);
+  color: rgba(127, 21, 25, 1);
   text-align: right;
  }
