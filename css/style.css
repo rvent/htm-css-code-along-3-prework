@@ -1,4 +1,4 @@
-/* This is 
+/* This is
 a comment */
 
 /* CSS Syntax
@@ -17,8 +17,11 @@ p { /* select all <p> */
 }
 
 figcaption {
-  font-weight: normal;
+  /* font-weight: normal;
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "New Times Roman", serif;
+  */
+  font: normal 0.75m/1.5em Georgia, "New Times Roman", serif"
+  color: #777;
  }
